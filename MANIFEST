@@ -2,5 +2,6 @@ Changes
 MANIFEST
 Makefile.PL
 PrettyPrinter.pm
-README
+dump.html
+pp.pl
 test.pl
